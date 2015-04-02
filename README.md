@@ -1,5 +1,5 @@
 # DelaunayTriangulation
-This project is designed to implement the incremental Delaunay Triangulation Algorithm. 
+This project is designed to implement the incremental Delaunay Triangulation Algorithm in C++. 
 
 This algorithm is used to maximize the minimum angle of all the angles of the triangles in the triangulation.
 
