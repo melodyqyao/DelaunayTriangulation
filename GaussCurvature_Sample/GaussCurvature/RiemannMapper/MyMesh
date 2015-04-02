@@ -1,0 +1,607 @@
+Vertex 1 -2 -2
+Vertex 2 2 -2
+Vertex 3 0 2
+Vertex 4 -0.0238953 -0.137085
+Vertex 5 0.268677 0.459137
+Vertex 6 -0.407928 -0.0579224
+Vertex 7 0.109711 -0.182739
+Vertex 8 -0.422028 -0.00408936
+Vertex 9 -0.408142 0.115601
+Vertex 10 -0.494202 0.11853
+Vertex 11 0.22757 0.240143
+Vertex 12 -0.147278 0.258789
+Vertex 13 -0.1427 -0.399292
+Vertex 14 0.42926 0.310852
+Vertex 15 -0.386261 -0.386871
+Vertex 16 0.403015 0.417816
+Vertex 17 -0.158875 0.316437
+Vertex 18 -0.237976 -0.0430603
+Vertex 19 0.063446 -0.156647
+Vertex 20 -0.438843 0.175323
+Vertex 21 -0.404938 -0.0367737
+Vertex 22 -0.204529 -0.055481
+Vertex 23 -0.112213 0.415741
+Vertex 24 0.244507 -0.396606
+Vertex 25 0.208008 0.254791
+Vertex 26 0.130615 0.357239
+Vertex 27 -0.262329 -0.0796509
+Vertex 28 -0.0640259 0.202545
+Vertex 29 -0.30719 0.258057
+Vertex 30 0.22113 -0.154236
+Vertex 31 -0.446686 0.20459
+Vertex 32 -0.21048 -0.414917
+Vertex 33 -0.00201416 0.35788
+Vertex 34 0.0413513 -0.37619
+Vertex 35 -0.361755 0.150757
+Vertex 36 -0.139404 -0.216003
+Vertex 37 0.14447 -0.153015
+Vertex 38 -0.12085 0.089447
+Vertex 39 -0.141296 0.0782471
+Vertex 40 0.461548 0.18634
+Vertex 41 0.487305 0.140808
+Vertex 42 0.254059 0.0708618
+Vertex 43 -0.0323181 -0.229095
+Vertex 44 -0.357788 0.0918579
+Vertex 45 0.102295 -0.382751
+Vertex 46 -0.0399475 -0.302216
+Vertex 47 0.0542908 0.129456
+Vertex 48 -0.204712 -0.103394
+Vertex 49 0.297852 0.0815735
+Vertex 50 0.233673 -0.102692
+Vertex 51 0.117889 0.44873
+Vertex 52 0.386871 -0.0983582
+Vertex 53 0.251648 -0.143646
+Vertex 54 0.046936 -0.484802
+Vertex 55 -0.232666 0.320129
+Vertex 56 -0.188141 -0.253601
+Vertex 57 -0.227692 0.496094
+Vertex 58 -0.474762 0.0618896
+Vertex 59 0.0452576 0.158813
+Vertex 60 0.374451 0.467499
+Vertex 61 0.186127 0.127258
+Vertex 62 0.490479 0.0834656
+Vertex 63 0.377136 0.356262
+Vertex 64 0.393677 0.18222
+Vertex 65 0.348907 0.413086
+Vertex 66 0.128845 0.158051
+Vertex 67 -0.35434 0.057373
+Vertex 68 0.433685 0.397095
+Vertex 69 -0.217468 0.143341
+Vertex 70 -0.216064 -0.483459
+Vertex 71 0.389832 -0.436981
+Vertex 72 -0.340546 -0.0584412
+Vertex 73 -0.0632324 0.449249
+Vertex 74 -0.125366 0.289032
+Vertex 75 0.129364 0.357269
+Vertex 76 0.317078 -0.47345
+Vertex 77 -0.424103 -0.356659
+Vertex 78 -0.0618591 0.375671
+Vertex 79 -0.186371 -0.240265
+Vertex 80 0.339294 -0.0720215
+Vertex 81 0.290558 -0.315826
+Vertex 82 -0.202118 -0.0571289
+Vertex 83 0.396118 0.202972
+Vertex 84 0.0759888 -0.204468
+Vertex 85 0.134369 0.266357
+Vertex 86 -0.143494 -0.455627
+Vertex 87 -0.466431 0.134827
+Vertex 88 0.149597 0.0860291
+Vertex 89 0.385742 -0.464752
+Vertex 90 -0.486115 -0.13269
+Vertex 91 0.410156 -0.454346
+Vertex 92 0.435638 0.122223
+Vertex 93 0.434418 0.426941
+Vertex 94 -0.289978 0.103394
+Vertex 95 -0.313263 0.12088
+Vertex 96 0.168091 0.276276
+Vertex 97 -0.206573 -0.367126
+Vertex 98 -0.406921 -0.0550842
+Vertex 99 -0.424896 0.0180969
+Vertex 100 0.169983 0.278351
+Vertex 101 0.235626 0.189972
+Vertex 102 0.312256 0.205841
+Vertex 103 0.0371399 0.269623
+Face 32 10 3 1
+Face 118 21 6 8
+Face 157 22 27 18
+Face 201 31 3 10
+Face 237 20 35 9
+Face 239 31 35 20
+Face 240 31 35 29
+Face 257 7 37 19
+Face 258 7 37 30
+Face 281 22 39 18
+Face 283 4 39 38
+Face 300 14 41 40
+Face 319 43 36 4
+Face 323 19 43 4
+Face 331 9 44 35
+Face 345 46 13 34
+Face 347 36 46 43
+Face 350 47 38 28
+Face 354 4 47 38
+Face 367 48 22 27
+Face 369 4 48 36
+Face 381 37 50 30
+Face 387 51 5 3
+Face 391 26 51 5
+Face 404 53 50 30
+Face 410 45 54 24
+Face 415 34 54 45
+Face 416 1 54 2
+Face 422 17 55 23
+Face 423 12 55 29
+Face 424 12 55 17
+Face 434 46 56 13
+Face 435 46 56 36
+Face 437 57 31 3
+Face 439 55 57 23
+Face 441 29 57 55
+Face 442 29 57 31
+Face 444 51 57 3
+Face 455 59 47 28
+Face 463 60 5 3
+Face 478 62 41 2
+Face 487 25 63 11
+Face 504 65 60 5
+Face 505 16 65 60
+Face 506 16 65 63
+Face 507 25 65 63
+Face 508 25 65 5
+Face 512 47 66 59
+Face 521 8 67 21
+Face 523 9 67 44
+Face 537 14 68 41
+Face 538 63 68 16
+Face 539 63 68 14
+Face 544 12 69 29
+Face 546 38 69 39
+Face 547 28 69 12
+Face 548 28 69 38
+Face 555 70 1 54
+Face 560 15 70 1
+Face 561 15 70 32
+Face 574 67 72 21
+Face 576 18 72 27
+Face 577 18 72 67
+Face 582 73 51 57
+Face 583 73 57 23
+Face 585 33 73 51
+Face 589 74 12 17
+Face 590 28 74 12
+Face 594 75 26 51
+Face 595 75 51 33
+Face 605 76 54 2
+Face 606 24 76 54
+Face 607 24 76 71
+Face 610 77 1 15
+Face 618 56 77 15
+Face 620 78 74 33
+Face 622 17 78 23
+Face 623 17 78 74
+Face 624 73 78 23
+Face 625 73 78 33
+Face 627 79 56 36
+Face 628 79 48 36
+Face 629 27 79 48
+Face 631 72 79 27
+Face 633 77 79 72
+Face 634 77 79 56
+Face 638 62 80 52
+Face 640 53 80 50
+Face 641 53 80 52
+Face 642 42 80 50
+Face 643 42 80 49
+Face 645 81 71 24
+Face 647 52 81 53
+Face 648 52 81 71
+Face 650 30 81 53
+Face 651 7 81 30
+Face 653 45 81 24
+Face 654 45 81 7
+Face 655 82 4 48
+Face 656 82 48 22
+Face 658 39 82 22
+Face 659 39 82 4
+Face 665 40 83 14
+Face 666 40 83 64
+Face 670 19 84 7
+Face 671 19 84 43
+Face 672 46 84 43
+Face 673 46 84 34
+Face 674 45 84 34
+Face 675 45 84 7
+Face 678 85 25 66
+Face 680 26 85 75
+Face 681 59 85 66
+Face 686 86 70 54
+Face 688 32 86 13
+Face 689 32 86 70
+Face 690 34 86 54
+Face 691 34 86 13
+Face 692 87 9 20
+Face 695 31 87 20
+Face 696 31 87 10
+Face 697 58 87 10
+Face 698 58 87 9
+Face 702 50 88 37
+Face 704 42 88 50
+Face 705 42 88 61
+Face 706 66 88 61
+Face 707 66 88 47
+Face 708 19 88 37
+Face 710 4 88 47
+Face 711 4 88 19
+Face 712 89 76 71
+Face 714 89 76 2
+Face 716 90 77 1
+Face 717 90 10 1
+Face 718 58 90 10
+Face 722 72 90 77
+Face 723 72 90 6
+Face 724 8 90 58
+Face 725 8 90 6
+Face 728 91 62 2
+Face 729 52 91 62
+Face 730 52 91 71
+Face 731 89 91 71
+Face 732 89 91 2
+Face 734 92 64 49
+Face 736 41 92 62
+Face 738 40 92 41
+Face 739 40 92 64
+Face 740 80 92 49
+Face 741 80 92 62
+Face 743 93 3 2
+Face 746 60 93 3
+Face 747 16 93 60
+Face 748 16 93 68
+Face 749 41 93 68
+Face 750 41 93 2
+Face 753 94 67 44
+Face 755 18 94 67
+Face 756 39 94 18
+Face 757 39 94 69
+Face 764 95 29 35
+Face 765 69 95 29
+Face 766 69 95 94
+Face 767 44 95 35
+Face 768 44 95 94
+Face 770 96 85 25
+Face 774 97 56 15
+Face 775 97 15 32
+Face 777 13 97 56
+Face 778 13 97 32
+Face 779 98 72 21
+Face 780 98 21 6
+Face 781 98 72 6
+Face 782 99 9 58
+Face 783 99 58 8
+Face 785 67 99 8
+Face 786 67 99 9
+Face 788 100 96 25
+Face 789 100 5 25
+Face 790 26 100 5
+Face 792 85 100 96
+Face 793 85 100 26
+Face 797 42 101 49
+Face 798 42 101 61
+Face 799 66 101 61
+Face 801 25 101 11
+Face 802 25 101 66
+Face 808 102 101 11
+Face 810 64 102 83
+Face 812 49 102 64
+Face 813 49 102 101
+Face 814 63 102 11
+Face 816 14 102 83
+Face 817 14 102 63
+Face 819 103 85 59
+Face 821 75 103 33
+Face 822 75 103 85
+Face 823 28 103 59
+Face 825 74 103 33
+Face 826 74 103 28
+Edge 5 3 {}
+Edge 6 8 {}
+Edge 10 3 {}
+Edge 3 1 {}
+Edge 1 10 {}
+Edge 1 15 {}
+Edge 17 12 {}
+Edge 4 19 {}
+Edge 19 7 {}
+Edge 9 20 {}
+Edge 21 6 {}
+Edge 8 21 {}
+Edge 18 22 {}
+Edge 23 17 {}
+Edge 11 25 {}
+Edge 5 25 {}
+Edge 5 26 {}
+Edge 27 18 {}
+Edge 22 27 {}
+Edge 12 28 {}
+Edge 29 12 {}
+Edge 30 7 {}
+Edge 20 31 {}
+Edge 31 3 {}
+Edge 10 31 {}
+Edge 29 31 {}
+Edge 32 15 {}
+Edge 13 32 {}
+Edge 13 34 {}
+Edge 35 29 {}
+Edge 35 9 {}
+Edge 20 35 {}
+Edge 31 35 {}
+Edge 36 4 {}
+Edge 37 19 {}
+Edge 37 30 {}
+Edge 7 37 {}
+Edge 38 28 {}
+Edge 38 4 {}
+Edge 39 38 {}
+Edge 39 18 {}
+Edge 22 39 {}
+Edge 4 39 {}
+Edge 40 14 {}
+Edge 41 40 {}
+Edge 41 2 {}
+Edge 14 41 {}
+Edge 43 36 {}
+Edge 4 43 {}
+Edge 19 43 {}
+Edge 44 35 {}
+Edge 9 44 {}
+Edge 45 34 {}
+Edge 24 45 {}
+Edge 7 45 {}
+Edge 46 13 {}
+Edge 46 43 {}
+Edge 34 46 {}
+Edge 36 46 {}
+Edge 47 38 {}
+Edge 28 47 {}
+Edge 4 47 {}
+Edge 48 22 {}
+Edge 48 36 {}
+Edge 27 48 {}
+Edge 4 48 {}
+Edge 49 42 {}
+Edge 50 42 {}
+Edge 50 30 {}
+Edge 37 50 {}
+Edge 51 5 {}
+Edge 3 51 {}
+Edge 51 33 {}
+Edge 26 51 {}
+Edge 53 50 {}
+Edge 52 53 {}
+Edge 30 53 {}
+Edge 54 24 {}
+Edge 54 2 {}
+Edge 45 54 {}
+Edge 34 54 {}
+Edge 1 54 {}
+Edge 2 1 {}
+Edge 55 23 {}
+Edge 55 29 {}
+Edge 17 55 {}
+Edge 12 55 {}
+Edge 15 56 {}
+Edge 56 36 {}
+Edge 56 13 {}
+Edge 46 56 {}
+Edge 57 23 {}
+Edge 57 31 {}
+Edge 3 57 {}
+Edge 55 57 {}
+Edge 29 57 {}
+Edge 51 57 {}
+Edge 10 58 {}
+Edge 58 8 {}
+Edge 9 58 {}
+Edge 59 47 {}
+Edge 28 59 {}
+Edge 60 5 {}
+Edge 60 16 {}
+Edge 3 60 {}
+Edge 61 42 {}
+Edge 52 62 {}
+Edge 62 41 {}
+Edge 2 62 {}
+Edge 63 11 {}
+Edge 63 16 {}
+Edge 14 63 {}
+Edge 25 63 {}
+Edge 64 49 {}
+Edge 64 40 {}
+Edge 65 60 {}
+Edge 65 63 {}
+Edge 5 65 {}
+Edge 16 65 {}
+Edge 25 65 {}
+Edge 66 59 {}
+Edge 61 66 {}
+Edge 25 66 {}
+Edge 47 66 {}
+Edge 67 21 {}
+Edge 67 44 {}
+Edge 67 18 {}
+Edge 8 67 {}
+Edge 9 67 {}
+Edge 68 16 {}
+Edge 68 41 {}
+Edge 14 68 {}
+Edge 63 68 {}
+Edge 69 29 {}
+Edge 69 39 {}
+Edge 12 69 {}
+Edge 38 69 {}
+Edge 28 69 {}
+Edge 70 1 {}
+Edge 54 70 {}
+Edge 70 32 {}
+Edge 15 70 {}
+Edge 71 52 {}
+Edge 71 24 {}
+Edge 72 21 {}
+Edge 72 27 {}
+Edge 6 72 {}
+Edge 67 72 {}
+Edge 18 72 {}
+Edge 73 51 {}
+Edge 57 73 {}
+Edge 23 73 {}
+Edge 33 73 {}
+Edge 74 12 {}
+Edge 74 33 {}
+Edge 17 74 {}
+Edge 28 74 {}
+Edge 75 26 {}
+Edge 51 75 {}
+Edge 33 75 {}
+Edge 76 54 {}
+Edge 76 71 {}
+Edge 2 76 {}
+Edge 24 76 {}
+Edge 77 1 {}
+Edge 15 77 {}
+Edge 72 77 {}
+Edge 56 77 {}
+Edge 78 23 {}
+Edge 78 74 {}
+Edge 33 78 {}
+Edge 17 78 {}
+Edge 73 78 {}
+Edge 79 48 {}
+Edge 79 56 {}
+Edge 36 79 {}
+Edge 27 79 {}
+Edge 72 79 {}
+Edge 77 79 {}
+Edge 80 49 {}
+Edge 80 52 {}
+Edge 80 50 {}
+Edge 62 80 {}
+Edge 53 80 {}
+Edge 42 80 {}
+Edge 81 53 {}
+Edge 81 71 {}
+Edge 24 81 {}
+Edge 52 81 {}
+Edge 30 81 {}
+Edge 7 81 {}
+Edge 45 81 {}
+Edge 82 4 {}
+Edge 48 82 {}
+Edge 22 82 {}
+Edge 39 82 {}
+Edge 83 64 {}
+Edge 83 14 {}
+Edge 40 83 {}
+Edge 84 7 {}
+Edge 84 43 {}
+Edge 84 34 {}
+Edge 19 84 {}
+Edge 46 84 {}
+Edge 45 84 {}
+Edge 85 25 {}
+Edge 85 75 {}
+Edge 66 85 {}
+Edge 26 85 {}
+Edge 59 85 {}
+Edge 86 13 {}
+Edge 86 70 {}
+Edge 54 86 {}
+Edge 32 86 {}
+Edge 34 86 {}
+Edge 87 9 {}
+Edge 20 87 {}
+Edge 87 10 {}
+Edge 31 87 {}
+Edge 58 87 {}
+Edge 88 37 {}
+Edge 88 61 {}
+Edge 88 47 {}
+Edge 50 88 {}
+Edge 42 88 {}
+Edge 66 88 {}
+Edge 19 88 {}
+Edge 4 88 {}
+Edge 89 76 {}
+Edge 71 89 {}
+Edge 2 89 {}
+Edge 90 10 {}
+Edge 90 77 {}
+Edge 1 90 {}
+Edge 58 90 {}
+Edge 90 6 {}
+Edge 72 90 {}
+Edge 8 90 {}
+Edge 91 62 {}
+Edge 91 71 {}
+Edge 2 91 {}
+Edge 52 91 {}
+Edge 89 91 {}
+Edge 92 62 {}
+Edge 92 64 {}
+Edge 49 92 {}
+Edge 41 92 {}
+Edge 40 92 {}
+Edge 80 92 {}
+Edge 93 68 {}
+Edge 93 3 {}
+Edge 3 2 {}
+Edge 2 93 {}
+Edge 60 93 {}
+Edge 16 93 {}
+Edge 41 93 {}
+Edge 94 67 {}
+Edge 94 69 {}
+Edge 44 94 {}
+Edge 18 94 {}
+Edge 39 94 {}
+Edge 95 29 {}
+Edge 95 94 {}
+Edge 35 95 {}
+Edge 69 95 {}
+Edge 44 95 {}
+Edge 96 85 {}
+Edge 25 96 {}
+Edge 97 56 {}
+Edge 15 97 {}
+Edge 32 97 {}
+Edge 13 97 {}
+Edge 98 72 {}
+Edge 21 98 {}
+Edge 6 98 {}
+Edge 99 9 {}
+Edge 58 99 {}
+Edge 8 99 {}
+Edge 67 99 {}
+Edge 100 5 {}
+Edge 100 96 {}
+Edge 25 100 {}
+Edge 26 100 {}
+Edge 85 100 {}
+Edge 101 49 {}
+Edge 101 61 {}
+Edge 101 11 {}
+Edge 42 101 {}
+Edge 66 101 {}
+Edge 25 101 {}
+Edge 102 83 {}
+Edge 102 101 {}
+Edge 11 102 {}
+Edge 64 102 {}
+Edge 49 102 {}
+Edge 63 102 {}
+Edge 14 102 {}
+Edge 103 33 {}
+Edge 103 85 {}
+Edge 59 103 {}
+Edge 75 103 {}
+Edge 28 103 {}
+Edge 74 103 {}

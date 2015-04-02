@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RiemannMapper">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper.suo">
+</Property><Property Name="Date" Value="2014年2月23日">
+</Property><Property Name="Time" Value="0:17">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RiemannMapper.sln" Description="File successfully backed up as C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="RiemannMapper.suo" Description="File successfully backed up as C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper.suo.old">
+</Event><Event ErrorLevel="0" Project="RiemannMapper" Source="RiemannMapper\RiemannMapper.vcproj" Description="Converting project file 'C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper\RiemannMapper.vcproj'.">
+</Event><Event ErrorLevel="1" Project="RiemannMapper" Source="RiemannMapper\RiemannMapper.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="RiemannMapper" Source="RiemannMapper\RiemannMapper.vcproj" Description="MSB8012: $(TargetName) ('RiemannMapper') does not match the Linker's OutputFile property value '..\..\bin\GaussCurvature.exe' ('GaussCurvature') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="RiemannMapper" Source="RiemannMapper\RiemannMapper.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper\..\..\bin\RiemannMapper.exe') does not match the Linker's OutputFile property value '..\..\bin\GaussCurvature.exe' ('C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\bin\GaussCurvature.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="RiemannMapper" Source="RiemannMapper\RiemannMapper.vcproj" Description="Done converting to new project file 'C:\Users\Administrator\Desktop\2014 SPRING\CSE564-Visualization\GaussCurvature_Sample\GaussCurvature\RiemannMapper\RiemannMapper.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="RiemannMapper" Source="RiemannMapper\RiemannMapper.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RiemannMapper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RiemannMapper.sln" Description="Converted">
+</Event></UpgradeLog>
